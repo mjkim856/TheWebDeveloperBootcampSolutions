@@ -1,0 +1,7 @@
+// index.js에서 두 개의 변수를 정의하세요.
+// 'myLuckyNumber'라는 변수를 정의하고 그 값을 37로 설정하세요.
+// 'octopusLimbs'라는 변수를 정의하고 그 값을 8로 설정하세요.
+
+// Define a variable called myLuckyNumber and set it equal to 37
+let myLuckyNumber = 37;
+let octopusLimbs = 8;
